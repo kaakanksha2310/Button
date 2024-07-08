@@ -12,7 +12,7 @@ A sleek, animated button with a cyan border and smooth hover effect. Perfect for
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/abhinavraghav1105/Button.git
+    git clone [https://github.com/kaakanksha2310/Button.git]
     ```
 2. Navigate to the project directory:
     ```bash
