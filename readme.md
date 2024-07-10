@@ -1,6 +1,6 @@
 # Animated Button with Hover Effect
 
-A sleek, animated button with a cyan border and smooth hover effect. Perfect for dark-themed websites, enhancing user experience with its modern design and interactive features.
+A sleek, animated button with a cyan border and smooth hover effect. Perfect for dark-themed websites, enhancing user experience with its modern design and new interactive features.
 
 ## Features
 
